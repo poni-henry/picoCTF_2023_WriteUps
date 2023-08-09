@@ -86,7 +86,8 @@ Below are the categories of challenges I encountered during the competition. Cli
 - Challenge 6 (300 points): [Special](General%20Skills/Special.md)
 - Challenge 7 (400 points): [Specialer](General%20Skills/Specialer.md)
 
-  ### Binary Exploitation
+<details>
+    <summary><strong>### Binary Exploitation</strong></summary>
 
 - Challenge 1 (100 points): [babygame01](Binary%20Exploitation/babygame01.md)
 - Challenge 2 (100 points): [two-sum](Binary%20Exploitation/two-sum.md)
@@ -95,3 +96,5 @@ Below are the categories of challenges I encountered during the competition. Cli
 - Challenge 5 (200 points): [tic-tac](Binary%20Exploitation/tic-tac.md)
 - Challenge 6 (200 points): [VNE](Binary%20Exploitation/VNE.md)
 - Challenge 7 (300 points): [Horsetrack](Binary%20Exploitation/Horsetrack.md)
+</details>
+
