@@ -12,7 +12,7 @@ I participated in the 2023 PicoCTF challenge organized by Carnegie Mellon Univer
 - [Introduction](#introduction)
 - [Competition Details](#competition-details)
 - [Challenges](#challenges)
-  - [Category 1](#category-1)
+  - [Web Exploitation](#category-1)
   - [Category 2](#category-2)
   - [Category 3](#category-3)
   - ...
