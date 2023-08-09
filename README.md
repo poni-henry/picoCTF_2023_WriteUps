@@ -77,13 +77,13 @@ Below are the categories of challenges I encountered during the competition. Cli
 
 ### General Skills
 
-- Challenge 1 (100 points): [chrono](General-Skills/chrono.md)
-- Challenge 2 (100 points): [money-ware](General-Skills/money-ware.md)
-- Challenge 3 (100 points): [Permissions](General-Skills/Permissions.md)
-- Challenge 4 (100 points): [repetitions](General-Skills/repetitions.md)
-- Challenge 5 (100 points): [useless](General-Skills/useless.md)
-- Challenge 6 (300 points): [Special](General-Skills/Special.md)
-- Challenge 7 (400 points): [Specialer](General-Skills/Specialer.md)
+- Challenge 1 (100 points): [chrono](General%20Skills/chrono.md)
+- Challenge 2 (100 points): [money-ware](General%20Skills/money-ware.md)
+- Challenge 3 (100 points): [Permissions](General%20Skills/Permissions.md)
+- Challenge 4 (100 points): [repetitions](General%20Skills/repetitions.md)
+- Challenge 5 (100 points): [useless](General%20Skills/useless.md)
+- Challenge 6 (300 points): [Special](General%20Skills/Special.md)
+- Challenge 7 (400 points): [Specialer](General%20Skills/Specialer.md)
 
   ### Binary Exploitation
 
