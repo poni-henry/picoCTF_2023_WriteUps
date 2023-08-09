@@ -35,35 +35,36 @@ Below are the categories of challenges I encountered during the competition. Cli
 
 ### Web Exploitation
 
-- Challenge 1 (100 points): [findme](Web-Exploitation/findme.md)
-- Challenge 2 (100 points): [MatchTheRegex](Web-Exploitation/MatchTheRegex.md)
-- Challenge 3 (100 points): [SOAP](Web-Exploitation/SOAP.md)
-- Challenge 4 (200 points): [More SQLi](Web-Exploitation/More-SQLi.md)
-- Challenge 5 (300 points): [Java Code Analysis!?!](Web-Exploitation/Java-Code-Analysis!?!.md)
-- Challenge 6 (500 points): [cancri-sp](Web-Exploitation/cancri-sp.md)
-- Challenge 7 (500 points): [msfroggenerator2](Web-Exploitation/msfroggenerator2.md)
+- Challenge 1 (100 points): [findme](Web%20Exploitation/findme.md)
+- Challenge 2 (100 points): [MatchTheRegex](Web%20Exploitation/MatchTheRegex.md)
+- Challenge 3 (100 points): [SOAP](Web%20Exploitation/SOAP.md)
+- Challenge 4 (200 points): [More SQLi](Web%20Exploitation/More%20SQLi.md)
+- Challenge 5 (300 points): [Java Code Analysis](Web%20Exploitation/Java%20Code%20Analysis.md)
+- Challenge 6 (500 points): [cancri-sp](Web%20Exploitation/cancri-sp.md)
+- Challenge 7 (500 points): [msfroggenerator2](Web%20Exploitation/msfroggenerator2.md)
 
 ### Cryptography
 
 - Challenge 1 (100 points): [HideToSee](Cryptography/HideToSee.md)
 - Challenge 2 (100 points): [ReadMyCert](Cryptography/ReadMyCert.md)
 - Challenge 3 (100 points): [rotation](Cryptography/rotation.md)
-- Challenge 4 (200 points): [PowerAnalysis:Warmup](Cryptography/PowerAnalysis:Warmup.md)
-- Challenge 5 (400 points): [PowerAnalysis: Part 1](Cryptography/PowerAnalysis:Part-1.md)
+- Challenge 4 (200 points): [PowerAnalysis: Warmup](Cryptography/PowerAnalysis:Warmup.md)
+- Challenge 5 (400 points): [PowerAnalysis: Part 1](Cryptography/PowerAnalysis:Part%201.md)
 - Challenge 6 (500 points): [SRA](Cryptography/SRA.md)
-- Challenge 7 (500 points): [PowerAnalysis: Part 2](Cryptography/PowerAnalysis:Part-2.md)
+- Challenge 7 (500 points): [PowerAnalysis: Part 2](Cryptography/PowerAnalysis:Part%202.md)
 
 ### Reverse Engineering
 
-- Challenge 1 (100 points): [Ready Gladiator 0](Reverse-Engineering/Ready-Gladiator-0.md)
-- Challenge 2 (100 points): [Reverse](Reverse-Engineering/Reverse.md)
-- Challenge 3 (100 points): [Safe Opener 2](Reverse-Engineering/Safe-Opener-2.md)
-- Challenge 4 (100 points): [timer](Reverse-Engineering/timer.md)
-- Challenge 5 (100 points): [Virtual Machine 0](Reverse-Engineering/Virtual-Machine-0.md)
-- Challenge 6 (200 points): [No way out](Reverse-Engineering/No-way-out.md)
-- Challenge 7 (200 points): [Ready Gladiator 1](Reverse-Engineering/Ready-Gladiator-1.md)
-- Challenge 8 (300 points): [Virtual Machine 1](Reverse-Engineering/Virtual1Machine-1.md)
-- Challenge 9 (400 points): [Ready Gladiator 2](Reverse-Engineering/Ready-Gladiator-2.md)
+- Challenge 1 (100 points): [Ready Gladiator 0](Reverse%20Engineering/Ready%20Gladiator%200.md)
+- Challenge 2 (100 points): [Reverse](Reverse%20Engineering/Reverse.md)
+- Challenge 3 (100 points): [Safe Opener 2](Reverse%20Engineering/Safe%20Opener%202.md)
+- Challenge 4 (100 points): [timer](Reverse%20Engineering/timer.md)
+- Challenge 5 (100 points): [Virtual Machine 0](Reverse%20Engineering/Virtual%20Machine%200.md)
+- Challenge 6 (200 points): [No way out](Reverse%20Engineering/No%20way%20out.md)
+- Challenge 7 (200 points): [Ready Gladiator 1](Reverse%20Engineering/Ready%20Gladiator%201.md)
+- Challenge 8 (300 points): [Virtual Machine 1](Reverse%20Engineering/Virtual%20Machine%201.md)
+- Challenge 9 (400 points): [Ready Gladiator 2](Reverse%20Engineering/Ready%20Gladiator%202.md)
+
 
 ### Forensics
 
@@ -72,25 +73,27 @@ Below are the categories of challenges I encountered during the competition. Cli
 - Challenge 3 (100 points): [who is it](Forensics/who-is-it.md)
 - Challenge 4 (200 points): [FindAndOpen](Forensics/FindAndOpen.md)
 - Challenge 5 (200 points): [MSB](Forensics/MSB.md)
-- Challenge 6 (300 points): [Invisible WORDs](Forensics/Invisible-WORDs.md)
+- Challenge 6 (300 points): [Invisible WORDs](Forensics/Invisible%20WORDs.md)
 - Challenge 7 (500 points): [UnforgottenBits](UnforgottenBits.md)
 
 ### General Skills
 
-- Challenge 1 (100 points): [chrono](General-Skills/chrono.md)
-- Challenge 2 (100 points): [money-ware](General-Skills/money-ware.md)
-- Challenge 3 (100 points): [Permissions](General-Skills/Permissions.md)
-- Challenge 4 (100 points): [repetitions](General-Skills/repetitions.md)
-- Challenge 5 (100 points): [useless](General-Skills/useless.md)
-- Challenge 6 (300 points): [Special](General-Skills/Special.md)
-- Challenge 7 (400 points): [Specialer](General-Skills/Specialer.md)
+- Challenge 1 (100 points): [chrono](General%20Skills/chrono.md)
+- Challenge 2 (100 points): [money-ware](General%20Skills/money-ware.md)
+- Challenge 3 (100 points): [Permissions](General%20Skills/Permissions.md)
+- Challenge 4 (100 points): [repetitions](General%20Skills/repetitions.md)
+- Challenge 5 (100 points): [useless](General%20Skills/useless.md)
+- Challenge 6 (300 points): [Special](General%20Skills/Special.md)
+- Challenge 7 (400 points): [Specialer](General%20Skills/Specialer.md)
 
-  ### Binary Exploitation
+### Binary Exploitation
 
-- Challenge 1 (100 points): [babygame01](Binary-Exploitation/babygame01.md)
-- Challenge 2 (100 points): [two-sum](Binary-Exploitation/two-sum.md)
-- Challenge 3 (200 points): [babygame02](Binary-Exploitation/babygame02.md)
-- Challenge 4 (200 points): [hijacking](Binary-Exploitation/hijacking.md)
-- Challenge 5 (200 points): [tic-tac](Binary-Exploitation/tic-tac.md)
-- Challenge 6 (200 points): [VNE](Binary-Exploitation/VNE.md)
-- Challenge 7 (300 points): [Horsetrack](Binary-Exploitation/Horsetrack.md)
+- Challenge 1 (100 points): [babygame01](Binary%20Exploitation/babygame01.md)
+- Challenge 2 (100 points): [two-sum](Binary%20Exploitation/two-sum.md)
+- Challenge 3 (200 points): [babygame02](Binary%20Exploitation/babygame02.md)
+- Challenge 4 (200 points): [hijacking](Binary%20Exploitation/hijacking.md)
+- Challenge 5 (200 points): [tic-tac](Binary%20Exploitation/tic-tac.md)
+- Challenge 6 (200 points): [VNE](Binary%20Exploitation/VNE.md)
+- Challenge 7 (300 points): [Horsetrack](Binary%20Exploitation/Horsetrack.md)
+
+
