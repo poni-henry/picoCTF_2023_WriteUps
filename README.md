@@ -35,23 +35,23 @@ Below are the categories of challenges I encountered during the competition. Cli
 
 ### Web Exploitation
 
-- [x] Challenge 1 (100 points): [findme](Web%20Exploitation/findme.md)
-- [] Challenge 2 (100 points): [MatchTheRegex](Web%20Exploitation/MatchTheRegex.md)
-- [] Challenge 3 (100 points): [SOAP](Web%20Exploitation/SOAP.md)
-- [] Challenge 4 (200 points): [More SQLi](Web%20Exploitation/More%20SQLi.md)
-- [] Challenge 5 (300 points): [Java Code Analysis](Web%20Exploitation/Java%20Code%20Analysis.md)
-- [] Challenge 6 (500 points): [cancri-sp](Web%20Exploitation/cancri-sp.md)
-- [] Challenge 7 (500 points): [msfroggenerator2](Web%20Exploitation/msfroggenerator2.md)
+- Challenge 1 (100 points): [findme](Web%20Exploitation/findme.md)
+- Challenge 2 (100 points): [MatchTheRegex](Web%20Exploitation/MatchTheRegex.md)
+- Challenge 3 (100 points): [SOAP](Web%20Exploitation/SOAP.md)
+- Challenge 4 (200 points): [More SQLi](Web%20Exploitation/More%20SQLi.md)
+- Challenge 5 (300 points): [Java Code Analysis](Web%20Exploitation/Java%20Code%20Analysis.md)
+- Challenge 6 (500 points): [cancri-sp](Web%20Exploitation/cancri-sp.md)
+- Challenge 7 (500 points): [msfroggenerator2](Web%20Exploitation/msfroggenerator2.md)
 
 ### Cryptography
 
-- [] Challenge 1 (100 points): [HideToSee](Cryptography/HideToSee.md)
-- [] Challenge 2 (100 points): [ReadMyCert](Cryptography/ReadMyCert.md)
-- [] Challenge 3 (100 points): [rotation](Cryptography/rotation.md)
-- [] Challenge 4 (200 points): [PowerAnalysis: Warmup](Cryptography/PowerAnalysis:Warmup.md)
-- [] Challenge 5 (400 points): [PowerAnalysis: Part 1](Cryptography/PowerAnalysis:Part%201.md)
-- [] Challenge 6 (500 points): [SRA](Cryptography/SRA.md)
-- [] Challenge 7 (500 points): [PowerAnalysis: Part 2](Cryptography/PowerAnalysis:Part%202.md)
+- Challenge 1 (100 points): [HideToSee](Cryptography/HideToSee.md)
+- Challenge 2 (100 points): [ReadMyCert](Cryptography/ReadMyCert.md)
+- Challenge 3 (100 points): [rotation](Cryptography/rotation.md)
+- Challenge 4 (200 points): [PowerAnalysis: Warmup](Cryptography/PowerAnalysis:Warmup.md)
+- Challenge 5 (400 points): [PowerAnalysis: Part 1](Cryptography/PowerAnalysis:Part%201.md)
+- Challenge 6 (500 points): [SRA](Cryptography/SRA.md)
+- Challenge 7 (500 points): [PowerAnalysis: Part 2](Cryptography/PowerAnalysis:Part%202.md)
 
 ### Reverse Engineering
 
