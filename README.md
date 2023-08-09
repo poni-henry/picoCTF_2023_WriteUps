@@ -48,10 +48,10 @@ Below are the categories of challenges I encountered during the competition. Cli
 - Challenge 1 (100 points): [HideToSee](Cryptography/HideToSee.md)
 - Challenge 2 (100 points): [ReadMyCert](Cryptography/ReadMyCert.md)
 - Challenge 3 (100 points): [rotation](Cryptography/rotation.md)
-- Challenge 4 (200 points): [PowerAnalysis:%20Warmup](Cryptography/PowerAnalysis:%20Warmup.md)
-- Challenge 5 (400 points): [PowerAnalysis: Part 1](Cryptography/PowerAnalysis:%20Part%201.md)
+- Challenge 4 (200 points): [PowerAnalysis: Warmup](Cryptography/PowerAnalysis:Warmup.md)
+- Challenge 5 (400 points): [PowerAnalysis: Part 1](Cryptography/PowerAnalysis:Part%201.md)
 - Challenge 6 (500 points): [SRA](Cryptography/SRA.md)
-- Challenge 7 (500 points): [PowerAnalysis: Part 2](Cryptography/PowerAnalysis:%20Part%202.md)
+- Challenge 7 (500 points): [PowerAnalysis: Part 2](Cryptography/PowerAnalysis:Part%202.md)
 
 ### Reverse Engineering
 
