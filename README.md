@@ -87,10 +87,10 @@ Below are the categories of challenges I encountered during the competition. Cli
 
   ### Binary Exploitation
 
-- Challenge 1: [babygame01](Binary-Exploitation/babygame01.md)
-- Challenge 2: [two-sum](Binary-Exploitation/two-sum.md)
-- Challenge 3: [babygame02](Binary-Exploitation/babygame02.md)
-- Challenge 4: [hijacking](Binary-Exploitation/hijacking.md)
-- Challenge 5: [tic-tac](Binary-Exploitation/tic-tac.md)
-- Challenge 6: [VNE](Binary-Exploitation/VNE.md)
-- Challenge 7: [Horsetrack](Binary-Exploitation/Horsetrack.md)
+- Challenge 1 (100 points): [babygame01](Binary-Exploitation/babygame01.md)
+- Challenge 2 (100 points): [two-sum](Binary-Exploitation/two-sum.md)
+- Challenge 3 (200 points): [babygame02](Binary-Exploitation/babygame02.md)
+- Challenge 4 (200 points): [hijacking](Binary-Exploitation/hijacking.md)
+- Challenge 5 (200 points): [tic-tac](Binary-Exploitation/tic-tac.md)
+- Challenge 6 (200 points): [VNE](Binary-Exploitation/VNE.md)
+- Challenge 7 (300 points): [Horsetrack](Binary-Exploitation/Horsetrack.md)
