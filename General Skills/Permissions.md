@@ -16,8 +16,9 @@ puTTy (optional) - [Link to download puTTy](https://www.chiark.greenend.org.uk/~
 
 
 ## Important information I learnt and researched about challenge
-**What is ssh** 
-SSH also known as Secure Shell or Secure Socket Shell is a network communication protocol that enables two computers to communicate and share data. An inherent feature of ssh is that the communication between the two computers is encrypted meaning that it is suitable for use on insecure networks. SSH is often used to "login" and perform operations on remote computers but it may also be used for transferring data[[1]](https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it).
+<p style="text-align: justify;">**What is ssh** 
+SSH also known as Secure Shell or Secure Socket Shell is a network communication protocol that enables two computers to communicate and share data. An inherent feature of ssh is that the communication between the two computers is encrypted meaning that it is suitable for use on insecure networks. SSH is often used to "login" and perform operations on remote computers but it may also be used for transferring data[[1]](https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it).</p>
+
 
 **When and Why use ssh**
 SSH connections have been used to secure many different types of communications between a local machine and a remote host, including secure remote access to resources, remote execution of commands, delivery of software patches, and updates and other administrative or management tasks [[2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
