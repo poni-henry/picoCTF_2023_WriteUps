@@ -15,7 +15,7 @@ Can you login and read the root file?
 puTTy (optional) - [Link to download puTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 
-## Important information I learnt and researched about challenge
+## Important information I learnt and researched about while doing challenge
 **What is ssh** 
 SSH also known as Secure Shell or Secure Socket Shell is a network communication protocol that enables two  computers to communicate and share data. An inherent feature of ssh is that the communication between the two  computers is encrypted meaning that it is suitable for use on insecure networks. SSH is often used to "login"  and perform operations on remote computers but it may also be used for transferring data[[1]](https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it).
 
@@ -31,6 +31,8 @@ You can use the webshell or puTTy to make the ssh connection and do this challen
 
 ## Steps
 1. **Step One: Make an ssh connection to the remote computer.**
+
+All the information required to make the ssh connection will be provided once the instance of the challenge is started.
 **If using webshell**:
 <pre>
 ssh [options] UserName@SSHserver.example.com
@@ -45,11 +47,22 @@ SSHserver.example.com with the appropriate hostname or IP address of the remote 
 
 **If using puTTy**:  
 
-![Make an ssh connection using puTTy input Host Name or IP address and Port number ](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/putty.png)  
+![Make an ssh connection using puTTy input Host Name or IP address and Port number](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/putty.png)  
+
+Login by providing username and password  
+![input correct username and password](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/putty.png)  
+
 2. Step Two  
 3. Step Three  
 4. Step Four  
 5. Step Five  
+
+
+---
+
+**Challenges:** 
+- Session timing out
+- Restarting an instance 
 
 ---
 
