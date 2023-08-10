@@ -12,8 +12,8 @@ Can you login and read the root file?
 1. What permissions do you have?
 
 ## Requirements to do Challenge
--puTTy (optional) - [Link to download puTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
--
+puTTy (optional) - [Link to download puTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
 
 ## Important information I learnt and researched about challenge
 **What is ssh** 
@@ -22,9 +22,9 @@ SSH also known as Secure Shell or Secure Socket Shell is a network communication
 **When and Why use ssh**
 SSH connections have been used to secure many different types of communications between a local machine and a remote host, including secure remote access to resources, remote execution of commands, delivery of software patches, and updates and other administrative or management tasks [[2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
 
-In addition to creating a secure channel between local and remote computers, SSH is used to manage routers, server hardware, virtualization platforms, operating systems, and inside systems management and file transfer applications [2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
+In addition to creating a secure channel between local and remote computers, SSH is used to manage routers, server hardware, virtualization platforms, operating systems, and inside systems management and file transfer applications [[2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
 
-Secure Shell is used to connect to servers, make changes, perform uploads and exit, either using tools or directly through the terminal. SSH keys can be employed to automate access to servers and often are used in scripts, backup systems and configuration management tools [2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
+Secure Shell is used to connect to servers, make changes, perform uploads and exit, either using tools or directly through the terminal. SSH keys can be employed to automate access to servers and often are used in scripts, backup systems and configuration management tools [[2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
 
 In this challenge The ssh connection enables the user to remotely access the servers and perform some limited actions they have permission to execute. 
 You can use the webshell or puTTy to make the ssh connection and do this challenge.
