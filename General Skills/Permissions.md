@@ -43,7 +43,8 @@ SSHserver.example.com with the appropriate hostname or IP address of the remote 
 -l LOGIN_NAME: Specify the login username (equivalent to Username@ part).  
 -v: Increase verbosity for debugging.
 
-**If using puTTy**:
+**If using puTTy**:  
+
 ![Make an ssh connection using puTTy input Host Name or IP address and Port number ](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/putty.png)  
 2. Step Two  
 3. Step Three  
