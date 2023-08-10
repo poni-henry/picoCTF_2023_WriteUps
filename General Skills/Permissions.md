@@ -50,7 +50,7 @@ SSHserver.example.com with the appropriate hostname or IP address of the remote 
 ![Make an ssh connection using puTTy input Host Name or IP address and Port number](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/putty.png)  
 
 Login by providing username and password  
-![input correct username and password](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/putty.png)  
+![input correct username and password](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/providing%20username%20and%20password.png?raw=true)  
 
 2. Step Two  
 3. Step Three  
