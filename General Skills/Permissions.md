@@ -26,8 +26,11 @@ In addition to creating a secure channel between local and remote computers, SSH
 
 Secure Shell is used to connect to servers, make changes, perform uploads and exit, either using tools or  directly through the terminal. SSH keys can be employed to automate access to servers and often are used in   scripts, backup systems and configuration management tools [[2]](https://www.techtarget.com/searchsecurity/definition/Secure-Shell) .
 
+
+Need to add information about directories  
+Need to add information about permissions  
 In this challenge The ssh connection enables the user to remotely access the servers and perform some limited  actions they have permission to execute.  
-You can use the webshell or puTTy to make the ssh connection and do this challenge.  
+You can use the webshell on the picoCTF page or puTTy to make the ssh connection and do this challenge.  
 
 ## Steps
 1. **Step One: Make an ssh connection to the remote computer.**
@@ -52,7 +55,14 @@ SSHserver.example.com with the appropriate hostname or IP address of the remote 
 Login by providing username and password  
 ![input correct username and password](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/providing%20username%20and%20password.png?raw=true)  
 
-2. Step Two  
+2. **Step Two Finding out where currently located, is it the root directory?**
+Once have successfully logged on using the webshell or puTTy,
+Use the pwd command to find out which directory currently located:
+Simply type into the shell 
+```
+pwd
+```
+
 3. Step Three  
 4. Step Four  
 5. Step Five  
