@@ -72,9 +72,7 @@ pwd
 
 **Challenges:** 
 - **Remote server timing out**
-This can happen when 
--Session timing out
-- Restarting an instance 
+This can happen when Session time getting done or if you Restart an instance 
 ![Remote server timing out](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/remote%20connection%20timing%20out.png?raw=true)
 
 
