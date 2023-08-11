@@ -72,6 +72,7 @@ pwd
 
 **Challenges:** 
 - Session timing out
+![Remote server timing out](https://github.com/poni-henry/picoCTF_2023_WriteUps/blob/main/Images/remote%20connection%20off.png)
 - Restarting an instance 
 
 ---
