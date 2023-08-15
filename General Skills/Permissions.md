@@ -63,9 +63,22 @@ Simply type into the shell
 pwd
 ```
 
-3. Step Three  
-4. Step Four  
-5. Step Five  
+3. **Step Three Navigating to the root directory**
+Navigate to home directory by using  
+```
+cd /
+```
+4. **Step Four Do you actually have access to root directory?**   
+Try navigating to root directry using
+```
+cd root
+``` 
+To prevent users during the challenge from accessing the root directory  
+In picoCFT the directory "challenge" is the root directory.   
+```
+cd challenge
+```
+5. **Step Five What is the flag** 
 
 
 ---
